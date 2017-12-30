@@ -1,0 +1,22 @@
+{
+   "author": "Germán Franco",
+   "description": "A simple dark theme",
+   "manifest_version": 2,
+   "name": "Simple dark",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 51, 51, 51 ],
+         "frame": [ 68, 68, 68 ],
+         "frame_inactive": [ 68, 68, 68 ],
+         "frame_incognito": [ 102, 102, 102 ],
+         "frame_incognito_inactive": [ 102, 102, 102 ],
+         "ntp_background": [ 250, 250, 250 ],
+         "ntp_link": [ 3, 169, 244 ],
+         "ntp_text": [ 51, 51, 51 ],
+         "tab_background_text": [ 68, 68, 68 ],
+         "tab_text": [ 51, 51, 51 ],
+         "toolbar": [ 240, 240, 240 ]
+      }
+   },
+   "version": "1"
+}
